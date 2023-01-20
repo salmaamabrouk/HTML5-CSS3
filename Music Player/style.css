@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(211, 255, 211);
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    color: rgb(25, 92, 92);
+}
+button{
+    display:inline;
+    margin-left: 20px;
+    align-content: center;
+    background-color: rgb(104, 87, 65);
+    border-radius: 40px;
+    width: 80px;
+    height: 30px;
+    border-color: rgb(104, 87, 65);;
+    color: white;
+    cursor: pointer;
+}
+audio{
+    margin-bottom: 20px;
+}

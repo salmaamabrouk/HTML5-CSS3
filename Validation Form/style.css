@@ -1,0 +1,41 @@
+body {
+    background-color: antiquewhite;
+}
+
+header {
+    text-align: center;
+    color: darkred;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+form {
+    text-align: center;
+}
+
+img {
+    width: 120px;
+    height: 120px;
+}
+
+.inputs {
+    text-align: center;
+    display: block;
+    margin-top: 3rem;
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace
+}
+
+.inputs input {
+    width: 20%;
+
+}
+
+.btn {
+    border-radius: 40px;
+    background-color: rgb(90, 171, 241);
+    border-color: rgb(90, 171, 241);
+    color: white;
+    width: 130px;
+    height: 30px;
+    cursor: pointer;
+}
